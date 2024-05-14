@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ahorcado/Ahorcado.iml" filepath="$PROJECT_DIR$/Ahorcado/Ahorcado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso Java SergieCode.iml" filepath="$PROJECT_DIR$/.idea/Curso Java SergieCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManejoExcepciones/ManejoExcepciones.iml" filepath="$PROJECT_DIR$/ManejoExcepciones/ManejoExcepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto Java/Proyecto Java.iml" filepath="$PROJECT_DIR$/Proyecto Java/Proyecto Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primera-app/primera-app.iml" filepath="$PROJECT_DIR$/primera-app/primera-app.iml" />
+    </modules>
+  </component>
+</project>
