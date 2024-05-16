@@ -31,3 +31,5 @@ Es la parte de la aplicación que solicita y consume los servicios proporcionado
 
 ## Servidor:
 Es la parte de la aplicación que recibe las solicitudes del cliente, procesa estas solicitudes y devuelve los resultados adecuados. Los servidores duelen ser programas que se ejecutan en máquinas dedicadas y que están diseñadas para manejar múltiples solicitudes de clientes simultáneamente.
+
+## Spring
